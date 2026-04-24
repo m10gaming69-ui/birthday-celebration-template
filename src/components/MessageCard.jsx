@@ -15,7 +15,7 @@ function MessageCard({ isActive }) {
 
   const message = `[MEET ❤️],
 
-"Happy 18th Birthday, Meet! 🎈 (Wait, are we adults now? because I still feel like a kid with you!)
+"Happy 24th Birthday, Meet! 🎈 (Wait, are we adults now? because I still feel like a kid with you!)
 
 Thank you for being my person, my best friend, and my favorite distraction.
 I hope this birthday website makes you smile as much as you make me.
