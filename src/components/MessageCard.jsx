@@ -13,19 +13,17 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[MEET ❤️],
 
-Your personalized birthday message goes here.
+"Happy 18th Birthday, Meet! 🎈 (Wait, are we adults now? because I still feel like a kid with you!)
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+Thank you for being my person, my best friend, and my favorite distraction.
+I hope this birthday website makes you smile as much as you make me.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
+Let’s make this year unforgettable together!"
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [LOMEY 🐺]`;
 
   // Handle page transitions
   useEffect(() => {
