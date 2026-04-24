@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `MEET ❤️,
+  const message = `[MEET ❤️],
 
 "Happy 24th Birthday, Meet! 🎈 (Wait, are we adults now? because I still feel like a kid with you!)
 
@@ -23,7 +23,7 @@ I hope this birthday website makes you smile as much as you make me.
 Let’s make this year unforgettable together!"
 Happy Birthday! 🎉
 
-— LOMEY 🐺`;
+— [LOMEY 🐺]`;
 
   // Handle page transitions
   useEffect(() => {
